@@ -1,0 +1,6 @@
+{
+  "extends": "./node_modules/@kmwork/front-core/.eslintrc",
+  "rules": {
+    "import/no-extraneous-dependencies": 0
+  }
+}
