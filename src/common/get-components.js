@@ -4,7 +4,7 @@ import clientConfig from '@kmwork/front-core/lib/common/client-config';
 
 export function initComponents(COMPONENTS_BASE) {
   // todo @ANKU @LOW - как нибудь запихнуть в модули
-  require('./app-styles/init.scss');
+  require('../../lib/common/app-styles/init.scss');
 
   // ======================================================
   // CONTAINERS
