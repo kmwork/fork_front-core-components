@@ -1,3 +1,3 @@
 {
-  "extends": "../node_modules/@kmwork/front-core/config/.eslintrc"
+  "extends": "../node_modules/@reagentum/front-core/config/.eslintrc"
 }

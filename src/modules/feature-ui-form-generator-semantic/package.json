@@ -1,7 +1,0 @@
-{
-  "name": "@kmwork/feature-ui-form-generator-semantic",
-  "version": "1.0.0",
-  "dependencies": {
-    "redux-form": "~6.8.0"
-  }
-}

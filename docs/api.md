@@ -154,7 +154,7 @@
 **Extends Component**
 
 Пример c редуксом:
-import { getTableInfo } from '@kmwork/front-core/lib/common/app-redux/selectors';
+import { getTableInfo } from '@reagentum/front-core/lib/common/app-redux/selectors';
 
 {
 records: \[],
@@ -220,7 +220,7 @@ loadPositionsTables: {
 
 **Parameters**
 
--   `props`
+-   `props`  
 
 ## Notice
 
@@ -240,28 +240,28 @@ loadPositionsTables: {
 
 **Meta**
 
--   **deprecated**: use @kmwork/front-core/lib/modules/feature-attachments/common/subModule/model-attachment
+-   **deprecated**: use @reagentum/front-core/lib/modules/feature-attachments/common/subModule/model-attachment
 
 
 ## model-column
 
 **Meta**
 
--   **deprecated**: use @kmwork/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-column
+-   **deprecated**: use @reagentum/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-column
 
 
 ## model-menu
 
 **Meta**
 
--   **deprecated**: use @kmwork/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-menu
+-   **deprecated**: use @reagentum/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-menu
 
 
 ## model-tab
 
 **Meta**
 
--   **deprecated**: use @kmwork/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-tab
+-   **deprecated**: use @reagentum/front-core/lib/modules/feature-ui-basic/common/subModule/model-ui-tab
 
 
 ## default
@@ -395,19 +395,19 @@ closeOnDocumentClick={closeOnDimmerClick} (default: false)
 
 **Parameters**
 
--   `withBlur`
--   `withChange`
--   `event`
--   `comp`
+-   `withBlur`  
+-   `withChange`  
+-   `event`  
+-   `comp`  
 
 ## update
 
 **Parameters**
 
--   `withBlur`
--   `withChange`
--   `event`
--   `comp`
+-   `withBlur`  
+-   `withChange`  
+-   `event`  
+-   `comp`  
 
 ## AmountInput
 

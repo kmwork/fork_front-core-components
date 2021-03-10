@@ -1,4 +1,4 @@
-# front-core-components
+# FrontCore_Components
 
 Компоненты и лайату для [Front Core](https://bitbucket.org/kinjeiro/frontcore),
 стилизованные на базе библиотеки компонентов [React Semantic UI](https://react.semantic-ui.com)

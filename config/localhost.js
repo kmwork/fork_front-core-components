@@ -1,4 +1,4 @@
-// const { createEndpointServiceConfig } = require('@kmwork/front-core/config/utils/create-config');
+// const { createEndpointServiceConfig } = require('@reagentum/front-core/config/utils/create-config');
 
 module.exports = {
   // ======================================================

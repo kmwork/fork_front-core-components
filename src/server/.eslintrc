@@ -1,3 +1,0 @@
-{
-  "extends": "../../node_modules/@kmwork/front-core/lib/server/.eslintrc"
-}

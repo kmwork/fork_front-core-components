@@ -1,3 +1,0 @@
-#Модуль ui-app-semantic
-
-

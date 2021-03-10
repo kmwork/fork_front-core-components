@@ -1,7 +1,7 @@
 const {
   getModulesStatic
-} = require('@kmwork/front-core/build-scripts/utils/path-utils');
-const PARENT_WEBPACK_CONTEXT = require('@kmwork/front-core/build-scripts/webpack-context');
+} = require('@reagentum/front-core/build-scripts/utils/path-utils');
+const PARENT_WEBPACK_CONTEXT = require('@reagentum/front-core/build-scripts/webpack-context');
 
 const {
   inFrontCoreComponentsProject,

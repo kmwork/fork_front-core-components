@@ -3,11 +3,11 @@ const path = require('path');
 const {
   extendDeep,
   loadFileConfigs
-} = require('@kmwork/front-core/config/utils/configLib-utils');
+} = require('@reagentum/front-core/config/utils/configLib-utils');
 const {
   inNodeModules,
   getI18nModules
-} = require('@kmwork/front-core/build-scripts/utils/path-utils');
+} = require('@reagentum/front-core/build-scripts/utils/path-utils');
 
 const {
   useFromFrontCoreComponents,
@@ -16,7 +16,7 @@ const {
 
 const coreComponentsPackageJson = require(path.resolve(__dirname, '..', 'package.json'));
 
-const parentConfigFinal = loadFileConfigs(inNodeModules('@kmwork/front-core/config'));
+const parentConfigFinal = loadFileConfigs(inNodeModules('@reagentum/front-core/config'));
 
 module.exports = extendDeep(
   // parent config

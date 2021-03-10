@@ -1,6 +1,6 @@
 const path = require('path');
 
-const { pathJoin } = require('@kmwork/front-core/build-scripts/utils/path-utils');
+const { pathJoin } = require('@reagentum/front-core/build-scripts/utils/path-utils');
 
 const PROCESS_PATH = process.cwd();
 const CURRENT_FILE_PATH = __dirname;
